@@ -7,7 +7,7 @@ sanitaria** del Servicio de Transfusión Sanguínea para la red hospitalaria
 | | |
 |---|---|
 | Establecimiento | Hospital 50 Doctors La Paz (en desarrollo) |
-| Domicilio | Blvd. Gral. Agustín Olachea No. 4600, Col. María Conchita, C.P. 23098, La Paz, B.C.S. |
+| Domicilio | Blvd. Gral. Agustín Olachea 4600, María Conchita, C.P. 23098, La Paz, B.C.S. |
 | Servicio | Servicio de Transfusión Sanguínea (nuevo) |
 | Licencia sanitaria | **Sin licencia todavía.** En la demo aparece «EN TRÁMITE (DEMOSTRACIÓN)» |
 | CLUES | Por asignar. En la demo aparece «EN TRÁMITE» |
