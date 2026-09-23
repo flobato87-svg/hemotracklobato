@@ -1,0 +1,9 @@
+# Bases de datos y respaldos: nunca en este repositorio.
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.pem
+*.hemotrack
+__pycache__/
+*.pdf

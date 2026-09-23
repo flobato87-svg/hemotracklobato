@@ -1,0 +1,70 @@
+{
+  "formato": "hemotrack-perfil",
+  "version": 1,
+  "exportado": "2026-09-23 12:00",
+  "identidad": {
+    "denominacion": "HOSPITAL 50 DOCTORS LA PAZ",
+    "nombre_corto": "50 Doctors La Paz",
+    "dependencia": "Red Hospitalaria 50 Doctors",
+    "servicio": "Servicio de Transfusión Sanguínea",
+    "domicilio": "Blvd. Gral. Agustín Olachea No. 4600, Col. María Conchita",
+    "municipio": "La Paz",
+    "entidad": "Baja California Sur",
+    "cp": "23098",
+    "lugar_expedicion": "La Paz, B.C.S.",
+    "clues": "EN TRÁMITE",
+    "licencia": "EN TRÁMITE (DEMOSTRACIÓN)",
+    "responsable_sanitario": "Dr. Felipe Lobato Ferreyra",
+    "ubicacion_servicio": "Por definir en el proyecto arquitectónico",
+    "horario_servicio": "Lunes a domingo, 24 horas",
+    "area_adscripcion": "Dirección Médica"
+  },
+  "logos": {},
+  "claves_formato": {
+    "nota_transfusional": "50D-LPZ-STS-F01 · Versión 0",
+    "control_postransfusional": "50D-LPZ-STS-F02 · Versión 0",
+    "egreso_unidad": "50D-LPZ-STS-F03 · Versión 0",
+    "bitacora_hemovigilancia": "50D-LPZ-STS-F04 · Versión 0",
+    "libro_transfusiones": "50D-LPZ-STS-F05 · Versión 0",
+    "registro_recepcion": "50D-LPZ-STS-F06 · Versión 0",
+    "cedula_recepcion": "50D-LPZ-STS-F07 · Versión 0",
+    "determinaciones": "50D-LPZ-STS-F08 · Versión 0",
+    "solicitud_f1": "50D-LPZ-STS-F09 · Versión 0",
+    "consentimiento": "50D-LPZ-STS-F10 · Versión 0",
+    "marbete_reverso": "50D-LPZ-STS-F11 · Versión 0",
+    "folleto_donacion": "50D-LPZ-STS-F12 · Versión 0",
+    "verificacion_equipos": "50D-LPZ-STS-F13 · Versión 0",
+    "programa_mantenimiento": "50D-LPZ-STS-F14 · Versión 0",
+    "rpbi": "50D-LPZ-STS-F15 · Versión 0",
+    "rat": "50D-LPZ-STS-F16 · Versión 0",
+    "casi_incidente": "50D-LPZ-STS-F17 · Versión 0",
+    "indicadores_calidad": "50D-LPZ-STS-F18 · Versión 0",
+    "constancia_tye": "50D-LPZ-STS-F19 · Versión 0",
+    "pno_conservacion": "50D-LPZ-STS-PNO-01",
+    "pno_equipos": "50D-LPZ-STS-PNO-02",
+    "pno_rpbi": "50D-LPZ-STS-PNO-03",
+    "pno_hemovigilancia": "50D-LPZ-STS-PNO-04",
+    "pno_no_conformidad": "50D-LPZ-STS-PNO-05"
+  },
+  "procedencias": [
+    {
+      "clave": "03-01-1-001",
+      "nombre": "CETS Baja California Sur",
+      "denominacion": "C.E.T.S. BAJA CALIFORNIA SUR",
+      "codigo_cnts": "03-01-1-001",
+      "institucion": "CETS",
+      "sector": "PUBLICO",
+      "licencia": "26-TS-03-003-0001",
+      "vigencia_licencia": "2031-02-20",
+      "domicilio": "Calle Nicolas Bravo No. 1010, Col. Centro, La Paz, Baja California Sur, C.P. 23000",
+      "telefono": "612 125 4011",
+      "clues": "",
+      "alias": "",
+      "es_procedencia": 1,
+      "activo": 1
+    }
+  ],
+  "otros": {
+    "folio_muestra_sufijo": "50D"
+  }
+}
