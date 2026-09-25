@@ -1,9 +1,9 @@
 """
-sembrar_demo.py — Base de DEMOSTRACIÓN de HemoTrack para 50 Doctors La Paz.
+sembrar_demo.py — Base de DEMOSTRACIÓN de HemoTrack para Fifty Doctors Hospital La Paz.
 
 Crea una base nueva con:
 
-* la identidad de 50 Doctors La Paz (perfil ../perfil/*.hemotrack-perfil);
+* la identidad de Fifty Doctors Hospital La Paz (perfil ../perfil/*.hemotrack-perfil);
 * cuentas de demostración, una por rol;
 * pacientes, unidades, compatibilidades y transfusiones FICTICIOS, repartidos en
   los últimos días para que Panel, Trazabilidad, Reportes, Hemovigilancia e

@@ -1,16 +1,16 @@
-# Logotipos de 50 Doctors
+# Logotipos de Fifty Doctors Hospital
 
 Los membretes de HemoTrack llevan dos logotipos:
 
 | Archivo | Posición | Qué poner |
 |---|---|---|
-| `izquierdo.png` | Izquierda | Logotipo de la red (50 Doctors) |
-| `derecho.png` | Derecha | Logotipo de la unidad La Paz, o repetir el de la red |
+| `izquierdo.png` | Izquierda | Por ahora ninguno (decisión del titular) |
+| `derecho.png` | Derecha | Logotipo de Fifty Doctors Hospital (ya cargado) |
 
 - PNG, de preferencia con fondo transparente, al menos 600 px de ancho.
 - `sembrar_demo.py` los toma de esta carpeta si existen. También se pueden
   cargar después en HemoTrack → Configuración → Logotipos.
-- Sólo deben usarse con autorización de 50 Doctors.
+- Sólo deben usarse con autorización de Fifty Doctors Hospital.
 
 ## Cómo subirlos sin computadora
 

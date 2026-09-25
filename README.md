@@ -8,6 +8,6 @@ perfiles de configuración, logotipos, guiones de demostración y propuestas.
 
 | Cliente | Carpeta | Estado |
 |---|---|---|
-| 50 Doctors La Paz, B.C.S. | [`clientes/50-doctors-la-paz`](clientes/50-doctors-la-paz/) | Demostración en preparación |
+| Fifty Doctors Hospital La Paz, B.C.S. | [`clientes/50-doctors-la-paz`](clientes/50-doctors-la-paz/) | Demostración en preparación |
 
 Nunca guardar aquí bases de datos con pacientes reales ni la llave privada de licencias.

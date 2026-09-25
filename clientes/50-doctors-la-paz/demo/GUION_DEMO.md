@@ -1,4 +1,4 @@
-# Guion de la demostración · 50 Doctors La Paz
+# Guion de la demostración · Fifty Doctors Hospital La Paz
 
 Duración sugerida: 30–40 minutos. Base: la que crea `datos_demo/sembrar_demo.py`
 (todos los pacientes empiezan con «DEMO» y los expedientes con `50D-`).
@@ -13,7 +13,7 @@ Duración sugerida: 30–40 minutos. Base: la que crea `datos_demo/sembrar_demo.
 
 - Un servicio de transfusión nuevo tiene que nacer cumpliendo la NOM-253-SSA1-2012:
   trazabilidad vena a vena, hemovigilancia, informe mensual al CNTS e indicadores.
-- 50 Doctors La Paz necesita además un Responsable Sanitario para tramitar su
+- Fifty Doctors Hospital La Paz necesita además un Responsable Sanitario para tramitar su
   licencia. La oferta es **las dos cosas juntas**: el responsable y el sistema
   con el que él mismo responde.
 

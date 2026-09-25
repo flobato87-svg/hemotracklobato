@@ -1,8 +1,8 @@
-# Propuesta · Servicio de Transfusión Sanguínea 50 Doctors La Paz
+# Propuesta · Servicio de Transfusión Sanguínea Fifty Doctors Hospital La Paz
 
 **Borrador interno.** Revisar montos, plazos y redacción legal antes de enviarlo.
 
-**Para:** Dirección Médica y Dirección General, Hospital 50 Doctors La Paz
+**Para:** Dirección Médica y Dirección General, Fifty Doctors Hospital La Paz
 **De:** Dr. Felipe Lobato Ferreyra
 **Fecha:** septiembre de 2026
 
@@ -24,7 +24,7 @@ Dos servicios que se contratan juntos o por separado:
 ### B. HemoTrack 2 (licencia anual de uso)
 
 - Sistema de gestión del servicio de transfusión, hecho para la normativa mexicana.
-- Configurado con la identidad de 50 Doctors La Paz desde el primer día.
+- Configurado con la identidad de Fifty Doctors Hospital La Paz desde el primer día.
 - Instalación en uno o varios equipos, sin depender de internet.
 - Actualizaciones y soporte durante la vigencia.
 

@@ -1,4 +1,4 @@
-# HemoTrack · 50 Doctors La Paz
+# HemoTrack · Fifty Doctors Hospital La Paz
 
 Proyecto de demostración y oferta de **HemoTrack 2** y de la **responsabilidad
 sanitaria** del Servicio de Transfusión Sanguínea para la red hospitalaria
@@ -6,7 +6,7 @@ sanitaria** del Servicio de Transfusión Sanguínea para la red hospitalaria
 
 | | |
 |---|---|
-| Establecimiento | Hospital 50 Doctors La Paz (en desarrollo) |
+| Establecimiento | Fifty Doctors Hospital La Paz (en desarrollo) |
 | Domicilio | Blvd. Gral. Agustín Olachea 4600, María Conchita, C.P. 23098, La Paz, B.C.S. |
 | Servicio | Servicio de Transfusión Sanguínea (nuevo) |
 | Licencia sanitaria | **Sin licencia todavía.** En la demo aparece «EN TRÁMITE (DEMOSTRACIÓN)» |
@@ -44,9 +44,10 @@ porque va atada a él.
 
 ## Datos por confirmar con 50 Doctors
 
-- [ ] Razón social y denominación exacta (la demo usa «HOSPITAL 50 DOCTORS LA PAZ»; el logotipo dice «Fifty Doctors Hospital»)
+- [x] Denominación: «FIFTY DOCTORS HOSPITAL LA PAZ» (confirmada por el titular)
+- [ ] Razón social
 - [x] Logotipo de la red (Fifty Doctors Hospital) en `logotipos/derecho.png`
-- [ ] ¿Logotipo para la izquierda del membrete? (hoy va vacía)
+- [x] Sin logotipo izquierdo por ahora (decisión del titular); el membrete lleva sólo el derecho
 - [ ] Teléfono del hospital
 - [ ] CLUES (cuando se asigne)
 - [ ] Director(a) médico(a) — firma el formato C del CNTS
