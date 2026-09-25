@@ -44,8 +44,9 @@ porque va atada a él.
 
 ## Datos por confirmar con 50 Doctors
 
-- [ ] Razón social y denominación exacta del establecimiento (la demo usa «HOSPITAL 50 DOCTORS LA PAZ»)
-- [ ] Logotipos en buena resolución (PNG, fondo transparente)
+- [ ] Razón social y denominación exacta (la demo usa «HOSPITAL 50 DOCTORS LA PAZ»; el logotipo dice «Fifty Doctors Hospital»)
+- [x] Logotipo de la red (Fifty Doctors Hospital) en `logotipos/derecho.png`
+- [ ] ¿Logotipo para la izquierda del membrete? (hoy va vacía)
 - [ ] Teléfono del hospital
 - [ ] CLUES (cuando se asigne)
 - [ ] Director(a) médico(a) — firma el formato C del CNTS
@@ -55,7 +56,8 @@ porque va atada a él.
 
 ## Datos del Responsable Sanitario por completar
 
-- [ ] Cédula profesional y de especialidad (no se capturaron; el membrete sale sin «Céd. Prof.» hasta que se agreguen en Configuración)
+- [x] Cédulas: Medicina General 8013184 · Medicina Interna 11369911 · Hematología 14314501.
+  En la firma de los formatos se imprime «Céd. Prof. 8013184 · Céd. Esp. Hematología 14314501»
 
 ## Nota
 

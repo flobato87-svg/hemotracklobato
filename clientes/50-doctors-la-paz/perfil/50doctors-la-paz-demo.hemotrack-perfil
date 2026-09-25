@@ -17,7 +17,8 @@
     "responsable_sanitario": "Dr. Felipe Lobato Ferreyra",
     "ubicacion_servicio": "Por definir en el proyecto arquitectónico",
     "horario_servicio": "Lunes a domingo, 24 horas",
-    "area_adscripcion": "Dirección Médica"
+    "area_adscripcion": "Dirección Médica",
+    "cedula_responsable": "8013184 · Céd. Esp. Hematología 14314501"
   },
   "logos": {},
   "claves_formato": {

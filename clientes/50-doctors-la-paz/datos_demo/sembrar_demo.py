@@ -40,7 +40,7 @@ USUARIO_QUIMICO = "Q.F.B. Ana Karen Demo Ruiz"
 
 # usuario, nombre, rol (constante de seguridad), cédula
 CUENTAS = (
-    ("flobato", "Dr. Felipe Lobato Ferreyra", "ROL_RESPONSABLE", ""),
+    ("flobato", "Dr. Felipe Lobato Ferreyra", "ROL_RESPONSABLE", "8013184"),
     ("quimico", USUARIO_QUIMICO, "ROL_QUIMICO", ""),
     ("medico", "Dra. Sofía Demo Castro", "ROL_MEDICO", ""),
     ("enfermeria", "Lic. Enf. Jorge Demo Amador", "ROL_ENFERMERIA", ""),
