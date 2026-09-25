@@ -4,7 +4,7 @@ Los membretes de HemoTrack llevan dos logotipos:
 
 | Archivo | Posición | Qué poner |
 |---|---|---|
-| `izquierdo.png` | Izquierda | Por ahora ninguno (decisión del titular) |
+| `izquierdo.png` | Izquierda | Símbolo «50+» recortado del logotipo de Fifty Doctors Hospital |
 | `derecho.png` | Derecha | Logotipo de Fifty Doctors Hospital (ya cargado) |
 
 - PNG, de preferencia con fondo transparente, al menos 600 px de ancho.

@@ -47,7 +47,7 @@ porque va atada a él.
 - [x] Denominación: «FIFTY DOCTORS HOSPITAL LA PAZ» (confirmada por el titular)
 - [ ] Razón social
 - [x] Logotipo de la red (Fifty Doctors Hospital) en `logotipos/derecho.png`
-- [x] Sin logotipo izquierdo por ahora (decisión del titular); el membrete lleva sólo el derecho
+- [x] Logotipo izquierdo: símbolo «50+» recortado del mismo logotipo, en `logotipos/izquierdo.png`
 - [ ] Teléfono del hospital
 - [ ] CLUES (cuando se asigne)
 - [ ] Director(a) médico(a) — firma el formato C del CNTS
